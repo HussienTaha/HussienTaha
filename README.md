@@ -1,16 +1,53 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center" style="color:#00ff99;">⚡ Hussein Taha ⚡</h1>
-<h3 align="center" style="color:#66ccff;">Full Stack Developer | Next.js ⚛️ + Nest.js 🚀 | Learning Python 🐍</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hussien-taha-99ba24386"><img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/1Kau93AJxe/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:hussien212258@gmail.com"><img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<h1 style="font-size:3rem;
+           background: linear-gradient(90deg, #00ff99, #00ffff, #ff00ff);
+           -webkit-background-clip: text;
+           -webkit-text-fill-color: transparent;
+           animation: neonPulse 2s infinite alternate;
+           text-shadow: 0 0 15px #00ff99;">
+⚡ Hussein Taha ⚡
+</h1>
+
+<h3 style="color:#00e6ff; font-size:1.3rem; animation: fadeIn 2s ease-in-out;">
+Full Stack Developer | <span style="color:#00ff99;">Next.js ⚛️</span> + <span style="color:#ff00cc;">Nest.js 🚀</span> | Learning <span style="color:#ffff66;">Python 🐍</span>
+</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/hussien-taha-99ba24386">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1Kau93AJxe/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:hussien212258@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+</div>
+
+<!-- ===================== ANIMATIONS ===================== -->
+<style>
+@keyframes neonPulse {
+  from {
+    text-shadow: 0 0 10px #00ff99, 0 0 20px #00ffff, 0 0 40px #ff00ff;
+  }
+  to {
+    text-shadow: 0 0 20px #00ffff, 0 0 40px #ff00ff, 0 0 60px #00ff99;
+  }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 ---
 
-## <span style="color:#00ffcc;">👨‍💻 About Me</span>
+## <span style="color:#00ffff;">👨‍💻 About Me</span>
 💥 Passionate **Full Stack Developer** from Cairo, Egypt.  
 ⚙️ Building fast and modern **Next.js + Nest.js** applications.  
 🧠 Currently learning **Python** and mastering **GraphQL**.  
@@ -19,7 +56,6 @@
 - 🧩 Focused on **Clean Architecture** & **Scalable Codebases**.  
 - 🎯 Goal: Always push limits and learn beyond the comfort zone.  
 
----
 
 ## <span style="color:#00ffcc;">🛠️ My Tech Stack</span>
 

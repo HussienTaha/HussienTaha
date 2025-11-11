@@ -86,7 +86,8 @@
 
 ## 📄 My CV
 💼 Check out my professional CV below 👇  
-[![Download CV](https://img.shields.io/badge/Download_CV-00ff66?style=for-the-badge&logo=adobe&logoColor=black)](https://github.com/HussienTaha/your-repo-name/raw/main/HusseinTaha_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-00ff66?style=for-the-badge&logo=adobe&logoColor=black)](https://raw.githubusercontent.com/HussienTaha/HussienTaha/main/Hussein%20CV.pdf)
+
 
 ---
 

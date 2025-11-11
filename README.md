@@ -25,7 +25,7 @@
 
 <!-- رقم التليفون والإيميل كنص مباشر -->
 <p align="center">
-📞 +20 155 694 4022 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:hussien212258@gmail.com">hussien212258@gmail.com</a>
+📞 +20 155 634 4022 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:hussien212258@gmail.com">hussien212258@gmail.com</a>
 </p>
 
 <img src="https://github.com/HussienTaha/HussienTaha/blob/main/assets/line-divider.gif" width="100%" />

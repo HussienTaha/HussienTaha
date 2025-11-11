@@ -29,7 +29,7 @@
 🎯 Aim: Writing scalable, clean, and maintainable code like a pro  
 
 🧩 **Tech Focus:** React · TypeScript · Node.js · MongoDB · GraphQL · Socket.IO  
-🌈 Always learning. Always shipping. Always glowing ⚡
+ Always learning. Always shipping. Always glowing ⚡
 
 ---
 

@@ -7,15 +7,25 @@
 </h1>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hussien-taha-99ba24386">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/share/1Kau93AJxe/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+
+  <!-- Email Badge -->
   <a href="mailto:hussien212258@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<!-- رقم التليفون والإيميل كنص مباشر -->
+<p align="center">
+📞 +20 155 694 4022 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:hussien212258@gmail.com">hussien212258@gmail.com</a>
 </p>
 
 <img src="https://github.com/HussienTaha/HussienTaha/blob/main/assets/line-divider.gif" width="100%" />
@@ -29,7 +39,7 @@
 🎯 Aim: Writing scalable, clean, and maintainable code like a pro  
 
 🧩 **Tech Focus:** React · TypeScript · Node.js · MongoDB · GraphQL · Socket.IO  
- Always learning. Always shipping. Always glowing ⚡
+Always learning. Always shipping. Always glowing ⚡
 
 ---
 
@@ -87,7 +97,6 @@
 ## 📄 My CV
 💼 Check out my professional CV below 👇  
 [![Download CV](https://img.shields.io/badge/Download_CV-00ff66?style=for-the-badge&logo=adobe&logoColor=black)](https://raw.githubusercontent.com/HussienTaha/HussienTaha/main/Hussein%20CV.pdf)
-
 
 ---
 

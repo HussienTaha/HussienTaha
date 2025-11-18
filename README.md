@@ -51,30 +51,36 @@ Always learning. Always shipping. Always glowing ⚡
 
 ## ⚡ Skills & Levels
 
-<div align="center">
-
-**Frontend & Backend Skills**
-
-<span>HTML5</span> <progress value="100" max="100" style="width:100%; height:15px;"></progress>  
-<span>CSS3</span> <progress value="90" max="100" style="width:100%; height:15px;"></progress>  
-<span>JavaScript</span> <progress value="100" max="100" style="width:100%; height:15px;"></progress>  
-<span>TypeScript</span> <progress value="85" max="100" style="width:100%; height:15px;"></progress>  
-<span>React.js</span> <progress value="95" max="100" style="width:100%; height:15px;"></progress>  
-<span>Next.js</span> <progress value="90" max="100" style="width:100%; height:15px;"></progress>  
-<span>Tailwind CSS</span> <progress value="80" max="100" style="width:100%; height:15px;"></progress>  
-<span>Redux</span> <progress value="75" max="100" style="width:100%; height:15px;"></progress>  
-<span>Material UI</span> <progress value="75" max="100" style="width:100%; height:15px;"></progress>  
-<span>Nest.js</span> <progress value="85" max="100" style="width:100%; height:15px;"></progress>  
-<span>Node.js</span> <progress value="90" max="100" style="width:100%; height:15px;"></progress>  
-<span>MongoDB</span> <progress value="80" max="100" style="width:100%; height:15px;"></progress>  
-<span>GraphQL</span> <progress value="70" max="100" style="width:100%; height:15px;"></progress>  
-<span>Socket.IO</span> <progress value="70" max="100" style="width:100%; height:15px;"></progress>  
-<span>PostgreSQL</span> <progress value="70" max="100" style="width:100%; height:15px;"></progress>  
-<span>Docker</span> <progress value="50" max="100" style="width:100%; height:15px;"></progress>  
-<span>Python 🐍</span> <progress value="40" max="100" style="width:100%; height:15px;"></progress>  
-<span>Git & GitHub</span> <progress value="95" max="100" style="width:100%; height:15px;"></progress>  
-
-</div>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+| 🧠 Frontend | 🚀 Level |
+|--------------|-----------|
+| HTML5 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| CSS3 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 90% |
+| JavaScript | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| TypeScript | 🟩🟩🟩🟩🟩🟩🟩🟩 85% |
+| React.js | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 95% |
+| Next.js | 🟩🟩🟩🟩🟩🟩🟩🟩 90% |
+| Tailwind CSS | 🟩🟩🟩🟩🟩🟩🟩 80% |
+| Redux | 🟩🟩🟩🟩🟩🟩 75% |
+| Material UI | 🟩🟩🟩🟩🟩🟩 75% |
+</td>
+<td valign="top" width="50%">
+| ⚙️ Backend & Tools | 💥 Level |
+|--------------------|-----------|
+| Nest.js | 🟩🟩🟩🟩🟩🟩🟩 85% |
+| Node.js | 🟩🟩🟩🟩🟩🟩🟩🟩 90% |
+| MongoDB | 🟩🟩🟩🟩🟩🟩 80% |
+| GraphQL | 🟩🟩🟩🟩🟩 70% |
+| Socket.IO | 🟩🟩🟩🟩🟩 70% |
+| PostgreSQL | 🟩🟩🟩🟩🟩 70% |
+| Docker | 🟨🟨🟨🟨🟨 50% |
+| Python 🐍 | 🟨🟨🟨🟨 40% |
+| Git & GitHub | 🟩🟩🟩🟩🟩🟩🟩🟩 95% |
+</td>
+</tr>
+</table>
 
 ---
 

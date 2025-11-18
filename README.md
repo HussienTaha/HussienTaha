@@ -7,25 +7,33 @@
 </h1>
 
 <p align="center">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hussien-taha-99ba24386">
     <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/share/1Kau93AJxe/?mibextid=wwXIfr">
+  <!-- Facebook (universal link: works on mobile + desktop) -->
+  <a href="https://www.facebook.com/profile.php?id=100063625991859">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <!-- Instagram (universal link) -->
+  <a href="https://www.instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-ee00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <!-- Email Badge -->
   <a href="mailto:hussien212258@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
 </p>
 
 <!-- رقم التليفون والإيميل كنص مباشر -->
 <p align="center">
-📞 +20 155 634 4022 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:hussien212258@gmail.com">hussien212258@gmail.com</a>
+📞 +20 155 634 4022 &nbsp;&nbsp;|&nbsp;&nbsp; 
+📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussien212258@gmail.com">hussien212258@gmail.com</a>
 </p>
 
 <img src="https://github.com/HussienTaha/HussienTaha/blob/main/assets/line-divider.gif" width="100%" />

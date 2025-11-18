@@ -51,38 +51,104 @@ Always learning. Always shipping. Always glowing ⚡
 
 ## ⚡ Skills & Levels
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-| 🧠 Frontend | 🚀 Level |
-|--------------|-----------|
-| HTML5 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| CSS3 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 90% |
-| JavaScript | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| TypeScript | 🟩🟩🟩🟩🟩🟩🟩🟩 85% |
-| React.js | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 95% |
-| Next.js | 🟩🟩🟩🟩🟩🟩🟩🟩 90% |
-| Tailwind CSS | 🟩🟩🟩🟩🟩🟩🟩 80% |
-| Redux | 🟩🟩🟩🟩🟩🟩 75% |
-| Material UI | 🟩🟩🟩🟩🟩🟩 75% |
-</td>
-<td valign="top" width="50%">
-| ⚙️ Backend & Tools | 💥 Level |
-|--------------------|-----------|
-| Nest.js | 🟩🟩🟩🟩🟩🟩🟩 85% |
-| Node.js | 🟩🟩🟩🟩🟩🟩🟩🟩 90% |
-| MongoDB | 🟩🟩🟩🟩🟩🟩 80% |
-| GraphQL | 🟩🟩🟩🟩🟩 70% |
-| Socket.IO | 🟩🟩🟩🟩🟩 70% |
-| PostgreSQL | 🟩🟩🟩🟩🟩 70% |
-| Docker | 🟨🟨🟨🟨🟨 50% |
-| Python 🐍 | 🟨🟨🟨🟨 40% |
-| Git & GitHub | 🟩🟩🟩🟩🟩🟩🟩🟩 95% |
-</td>
-</tr>
-</table>
+<div align="center">
+
+### 🧠 Frontend Skills
+HTML5 &nbsp;&nbsp;&nbsp; 100%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:100%; background-color:#4CAF50; height:15px; border-radius:5px;"></div>
+</div>
+
+CSS3 &nbsp;&nbsp;&nbsp; 90%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:90%; background-color:#2196F3; height:15px; border-radius:5px;"></div>
+</div>
+
+JavaScript &nbsp;&nbsp;&nbsp; 100%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:100%; background-color:#f0db4f; height:15px; border-radius:5px;"></div>
+</div>
+
+TypeScript &nbsp;&nbsp;&nbsp; 85%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:85%; background-color:#007acc; height:15px; border-radius:5px;"></div>
+</div>
+
+React.js &nbsp;&nbsp;&nbsp; 95%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:95%; background-color:#61dafb; height:15px; border-radius:5px;"></div>
+</div>
+
+Next.js &nbsp;&nbsp;&nbsp; 90%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:90%; background-color:#000000; height:15px; border-radius:5px;"></div>
+</div>
+
+Tailwind CSS &nbsp;&nbsp;&nbsp; 80%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:80%; background-color:#38b2ac; height:15px; border-radius:5px;"></div>
+</div>
+
+Redux &nbsp;&nbsp;&nbsp; 75%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:75%; background-color:#764abc; height:15px; border-radius:5px;"></div>
+</div>
+
+Material UI &nbsp;&nbsp;&nbsp; 75%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:75%; background-color:#007fff; height:15px; border-radius:5px;"></div>
+</div>
 
 ---
+
+### ⚙️ Backend & Tools
+Nest.js &nbsp;&nbsp;&nbsp; 85%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:85%; background-color:#e0234e; height:15px; border-radius:5px;"></div>
+</div>
+
+Node.js &nbsp;&nbsp;&nbsp; 90%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:90%; background-color:#68a063; height:15px; border-radius:5px;"></div>
+</div>
+
+MongoDB &nbsp;&nbsp;&nbsp; 80%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:80%; background-color:#4DB33D; height:15px; border-radius:5px;"></div>
+</div>
+
+GraphQL &nbsp;&nbsp;&nbsp; 70%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:70%; background-color:#e535ab; height:15px; border-radius:5px;"></div>
+</div>
+
+Socket.IO &nbsp;&nbsp;&nbsp; 70%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:70%; background-color:#010101; height:15px; border-radius:5px;"></div>
+</div>
+
+PostgreSQL &nbsp;&nbsp;&nbsp; 70%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:70%; background-color:#336791; height:15px; border-radius:5px;"></div>
+</div>
+
+Docker &nbsp;&nbsp;&nbsp; 50%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:50%; background-color:#0db7ed; height:15px; border-radius:5px;"></div>
+</div>
+
+Python 🐍 &nbsp;&nbsp;&nbsp; 40%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:40%; background-color:#3776ab; height:15px; border-radius:5px;"></div>
+</div>
+
+Git & GitHub &nbsp;&nbsp;&nbsp; 95%  
+<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
+  <div style="width:95%; background-color:#f1502f; height:15px; border-radius:5px;"></div>
+</div>
+
+</div>
+
 
 ## 📄 My CV
 💼 Check out my professional CV below 👇  

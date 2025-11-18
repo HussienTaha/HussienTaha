@@ -51,103 +51,79 @@ Always learning. Always shipping. Always glowing ⚡
 
 ## ⚡ Skills & Levels
 
-<div align="center">
+<table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
+  <tr style="background-color:#1f2937; color:#00FF99;">
+    <th style="padding:10px; border:1px solid #00FF99;">🧠 Frontend</th>
+    <th style="padding:10px; border:1px solid #00FF99;">🚀 Level</th>
+    <th style="padding:10px; border:1px solid #00FF99;">⚙️ Backend & Tools</th>
+    <th style="padding:10px; border:1px solid #00FF99;">💥 Level</th>
+  </tr>
 
-### 🧠 Frontend Skills
-HTML5 &nbsp;&nbsp;&nbsp; 100%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:100%; background-color:#4CAF50; height:15px; border-radius:5px;"></div>
-</div>
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">HTML5</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Nest.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 85%</td>
+  </tr>
 
-CSS3 &nbsp;&nbsp;&nbsp; 90%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:90%; background-color:#2196F3; height:15px; border-radius:5px;"></div>
-</div>
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">CSS3</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Node.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+  </tr>
 
-JavaScript &nbsp;&nbsp;&nbsp; 100%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:100%; background-color:#f0db4f; height:15px; border-radius:5px;"></div>
-</div>
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">JavaScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">MongoDB</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 80%</td>
+  </tr>
 
-TypeScript &nbsp;&nbsp;&nbsp; 85%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:85%; background-color:#007acc; height:15px; border-radius:5px;"></div>
-</div>
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">TypeScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 85%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">GraphQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
 
-React.js &nbsp;&nbsp;&nbsp; 95%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:95%; background-color:#61dafb; height:15px; border-radius:5px;"></div>
-</div>
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">React.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Socket.IO</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
 
-Next.js &nbsp;&nbsp;&nbsp; 90%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:90%; background-color:#000000; height:15px; border-radius:5px;"></div>
-</div>
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Next.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">PostgreSQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
 
-Tailwind CSS &nbsp;&nbsp;&nbsp; 80%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:80%; background-color:#38b2ac; height:15px; border-radius:5px;"></div>
-</div>
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Tailwind CSS</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 80%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Docker</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨🟨 50%</td>
+  </tr>
 
-Redux &nbsp;&nbsp;&nbsp; 75%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:75%; background-color:#764abc; height:15px; border-radius:5px;"></div>
-</div>
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Redux</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Python 🐍</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨 40%</td>
+  </tr>
 
-Material UI &nbsp;&nbsp;&nbsp; 75%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:75%; background-color:#007fff; height:15px; border-radius:5px;"></div>
-</div>
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Material UI</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Git & GitHub</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+  </tr>
 
----
+</table>
 
-### ⚙️ Backend & Tools
-Nest.js &nbsp;&nbsp;&nbsp; 85%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:85%; background-color:#e0234e; height:15px; border-radius:5px;"></div>
-</div>
-
-Node.js &nbsp;&nbsp;&nbsp; 90%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:90%; background-color:#68a063; height:15px; border-radius:5px;"></div>
-</div>
-
-MongoDB &nbsp;&nbsp;&nbsp; 80%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:80%; background-color:#4DB33D; height:15px; border-radius:5px;"></div>
-</div>
-
-GraphQL &nbsp;&nbsp;&nbsp; 70%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:70%; background-color:#e535ab; height:15px; border-radius:5px;"></div>
-</div>
-
-Socket.IO &nbsp;&nbsp;&nbsp; 70%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:70%; background-color:#010101; height:15px; border-radius:5px;"></div>
-</div>
-
-PostgreSQL &nbsp;&nbsp;&nbsp; 70%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:70%; background-color:#336791; height:15px; border-radius:5px;"></div>
-</div>
-
-Docker &nbsp;&nbsp;&nbsp; 50%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:50%; background-color:#0db7ed; height:15px; border-radius:5px;"></div>
-</div>
-
-Python 🐍 &nbsp;&nbsp;&nbsp; 40%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:40%; background-color:#3776ab; height:15px; border-radius:5px;"></div>
-</div>
-
-Git & GitHub &nbsp;&nbsp;&nbsp; 95%  
-<div style="background-color:#e0e0e0; border-radius:5px; width:80%; margin:auto;">
-  <div style="width:95%; background-color:#f1502f; height:15px; border-radius:5px;"></div>
-</div>
-
-</div>
 
 
 ## 📄 My CV

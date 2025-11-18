@@ -13,18 +13,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
 
-  <!-- Facebook (universal link: works on mobile + desktop) -->
-  <a href="https://www.facebook.com/profile.php?id=100063625991859">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/hussien.taha">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 
-  <!-- Instagram (universal link) -->
-  <a href="https://www.instagram.com/USERNAME">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hussien_taha54">
     <img src="https://img.shields.io/badge/Instagram-ee00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <!-- Email Badge -->
-  <a href="mailto:hussien212258@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussien212258@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 

@@ -14,7 +14,7 @@
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/hussien.taha">
+  <a href="https://www.facebook.com/hussien.taha.788604">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 
@@ -24,7 +24,7 @@
   </a>
 
   <!-- Email Badge -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussien212258@gmail.com">
+  <a href="mailto:hussien212258@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -33,7 +33,7 @@
 <!-- رقم التليفون والإيميل كنص مباشر -->
 <p align="center">
 📞 +20 155 634 4022 &nbsp;&nbsp;|&nbsp;&nbsp; 
-📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussien212258@gmail.com">hussien212258@gmail.com</a>
+📧 <a href="mailto:hussien212258@gmail.com">hussien212258@gmail.com</a>
 </p>
 
 <img src="https://github.com/HussienTaha/HussienTaha/blob/main/assets/line-divider.gif" width="100%" />
@@ -120,3 +120,4 @@ Always learning. Always shipping. Always glowing ⚡
 🎧 Coding feels better with **Lo-fi beats**  
 ☕ Coffee + Code = Perfect Flow  
 🌌 “Dream in code, live in color.” 💫
+`

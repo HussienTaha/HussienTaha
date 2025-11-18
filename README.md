@@ -125,11 +125,11 @@ Always learning. Always shipping. Always glowing ⚡
 </table>
 
 
-
+<!--
 ## 📄 My CV
 💼 Check out my professional CV below 👇  
 [![Download CV](https://img.shields.io/badge/Download_CV-00ff66?style=for-the-badge&logo=adobe&logoColor=black)](https://raw.githubusercontent.com/HussienTaha/HussienTaha/main/Hussein%20Taha%20CV.pdf)
-
+ -->
 ---
 
 ## 📊 GitHub Stats

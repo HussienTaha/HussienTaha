@@ -3,23 +3,35 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=5000&color=00FF99&center=true&vCenter=true&width=700&lines=⚡+Hussein+Taha+⚡;Full+Stack+Developer+MERNstack;Next.js+⚛️+%2B+Nest.js+🚀;Always+Building+Something+New+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=5000&color=00FF99&center=true&vCenter=true&width=700&lines=⚡+Hussein+Taha+⚡;FFull+Stack+Developer+MERNstack;Next.js+⚛️+%2B+Nest.js+🚀;Always+Building+Something+New+🔥" />
 </h1>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hussien-taha-99ba24386">
     <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/hussien.taha.788604">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/hussien_taha54">
     <img src="https://img.shields.io/badge/Instagram-ee00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
+  <!-- Email Badge -->
   <a href="mailto:hussien212258@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <span style="display:inline-block;margin-left:10px;">📞 +20 1098706627</span>
+</p>
+
+<!-- رقم التليفون والإيميل كنص مباشر -->
+<p align="center">
+  <!-- 📞 +20 1098706627 &nbsp;&nbsp;|&nbsp;&nbsp; -->
+  <!-- 📧 <a href="mailto:hussien212258@gmail.com">hussien212258@gmail.com</a> -->
 </p>
 
 <img src="https://github.com/HussienTaha/HussienTaha/blob/main/assets/line-divider.gif" width="100%" />
@@ -86,7 +98,7 @@ Always learning. Always shipping. Always glowing ⚡
 
 ## 📄 My CV
 💼 Check out my professional CV below 👇  
-[![Download CV](https://img.shields.io/badge/Download_CV-00ff66?style=for-the-badge&logo=adobe&logoColor=black)](https://raw.githubusercontent.com/HussienTaha/HussienTaha/main/Hussein%20Taha%20CV.pdf)
+<!--[![Download CV](https://img.shields.io/badge/Download_CV-00ff66?style=for-the-badge&logo=adobe&logoColor=black)](https://raw.githubusercontent.com/HussienTaha/HussienTaha/main/Hussein%20Taha%20CV.pdf)-->
 
 ---
 
@@ -94,13 +106,6 @@ Always learning. Always shipping. Always glowing ⚡
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HussienTaha&show_icons=true&theme=tokyonight&count_private=true" width="46%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussienTaha&layout=compact&theme=tokyonight" width="46%" />
-</p>
-
----
-
-## 👁️ Visitors Counter
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HussienTaha.HussienTaha" alt="Visitors"/>
 </p>
 
 ---

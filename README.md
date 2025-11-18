@@ -1,33 +1,8 @@
 <!-- ===================== HUSSEIN TAHA - CYBER PROFILE ===================== -->
 
 <div align="center">
-
-<h1 align="center" style="font-size:3.2rem; text-align:center; line-height:1.4;">
-  <span style="
-    background: linear-gradient(90deg, #00ff99, #00ffff, #ff00ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 20px rgba(0,255,153,0.7), 0 0 40px rgba(0,255,255,0.5), 0 0 60px rgba(255,0,255,0.3);
-    display:block;
-  ">
-    ⚡ Hussein Taha ⚡
-  </span>
-  <span style="
-    font-size:1.6rem;
-    color:#00ffcc;
-    display:block;
-    margin-top:0.3rem;
-  ">
-    Full Stack Developer MERN-stack | Next.js ⚛️ + Nest.js 🚀
-  </span>
-  <span style="
-    font-size:1.2rem;
-    color:#ffcc00;
-    display:block;
-    margin-top:0.2rem;
-  ">
-    Always Building Something New 🔥
-  </span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00FF99&center=true&vCenter=true&width=700&lines=⚡+Hussein+Taha+⚡;Full+Stack+Developer+MERN-stack;Next.js+⚛️+%2B+Nest.js+🚀;Always+Building+Something+New+🔥" />
 </h1>
 
 

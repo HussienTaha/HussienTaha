@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=5000&color=00FF99&center=true&vCenter=true&width=700&lines=⚡+Hussein+Taha+⚡;FFull+Stack+Developer+MERNstack;Next.js+⚛️+%2B+Nest.js+🚀;Always+Building+Something+New+🔥" />
 </h1>
 
-
 <p align="center">
 
   <!-- LinkedIn -->
@@ -27,9 +26,7 @@
   <a href="mailto:hussien212258@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
 </p>
-
 <!-- رقم التليفون والإيميل كنص مباشر -->
 <p align="center">
 <!-- 📞 +20 1098706627 &nbsp;&nbsp;|&nbsp;&nbsp;  -->

@@ -47,6 +47,81 @@
 <h2 align="center">⚡ Skills Overview</h2>
 <p align="center">
 <table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
+  <p align="center">
+
+<table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
+  <tr style="background-color:#1f2937; color:#00FF99;">
+    <th style="padding:10px; border:1px solid #00FF99;">🧠 Frontend</th>
+    <th style="padding:10px; border:1px solid #00FF99;">🚀 Level</th>
+    <th style="padding:10px; border:1px solid #00FF99;">⚙️ Backend & Tools</th>
+    <th style="padding:10px; border:1px solid #00FF99;">💥 Level</th>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">HTML5</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Nest.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 85%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">CSS3</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Node.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">JavaScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">MongoDB</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 80%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">TypeScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 85%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">GraphQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">React.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Socket.IO</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Next.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">PostgreSQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Tailwind CSS</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 80%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Docker</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨🟨 50%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Redux</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Python 🐍</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨 40%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Material UI</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Git & GitHub</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+  </tr>
+
+</table>
+
 <!-- نفس الجدول القديم بدون أي تعديل -->
 </table>
 </p>

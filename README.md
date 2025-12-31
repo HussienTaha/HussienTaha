@@ -38,17 +38,15 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" height="30" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb" height="30" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="30" />
 </p>
 
 ---
 
 ## ⚡ Skills Overview
-
 <p align="center">
 
 <table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
@@ -128,32 +126,22 @@
 
 ---
 
-## 📊 GitHub Stats
-
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HussienTaha&theme=tokyonight" width="70%" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussienTaha&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HussienTaha&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HussienTaha&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HussienTaha&theme=tokyonight&utcOffset=2" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HussienTaha&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussienTaha&layout=compact&theme=tokyonight&hide_title=true" width="300" />
 </p>
 
 ---
 
-## 👁️ Visitors
-
+<h2 align="center">👁️ Visitors</h2>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HussienTaha.HussienTaha" />
 </p>
 
 ---
 
-## ☕ Fun Fact
-
+<h2 align="center">☕ Fun Fact</h2>
 <p align="center">
 🎧 Lo-fi beats + Coding<br/>
 ☕ Coffee + Code<br/>

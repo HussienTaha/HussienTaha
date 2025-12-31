@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
 💥 Full Stack Developer from <b>Cairo, Egypt</b><br/>
 ⚙️ Next.js + Nest.js focused<br/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" height="25" />
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb" height="25" />
@@ -44,20 +44,17 @@
 
 ---
 
-## ⚡ Skills Overview
+<h2 align="center">⚡ Skills Overview</h2>
 <p align="center">
-
 <table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
 <!-- نفس الجدول القديم بدون أي تعديل -->
 </table>
-
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Profile</h2>
 <p align="center">
-  <!-- بدل API اللي مش شغال badges ثابتة -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HussienTaha&theme=tokyonight" width="320" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussienTaha&theme=tokyonight" width="320" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HussienTaha&theme=tokyonight" width="320" />

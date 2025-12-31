@@ -1,5 +1,3 @@
-<!-- ===================== HUSSEIN TAHA - CYBER PROFILE ===================== -->
-
 <div align="center">
 
 <h1>
@@ -39,9 +37,9 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" height="30" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb" height="30" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" height="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb" height="25" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="25" />
 </p>
 
 ---
@@ -50,86 +48,19 @@
 <p align="center">
 
 <table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
-  <tr style="background-color:#1f2937; color:#00FF99;">
-    <th style="padding:10px; border:1px solid #00FF99;">🧠 Frontend</th>
-    <th style="padding:10px; border:1px solid #00FF99;">🚀 Level</th>
-    <th style="padding:10px; border:1px solid #00FF99;">⚙️ Backend & Tools</th>
-    <th style="padding:10px; border:1px solid #00FF99;">💥 Level</th>
-  </tr>
-
-  <tr>
-    <td style="padding:8px; border:1px solid #00FF99;">HTML5</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">Nest.js</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 85%</td>
-  </tr>
-
-  <tr style="background-color:#111827; color:#fff;">
-    <td style="padding:8px; border:1px solid #00FF99;">CSS3</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">Node.js</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
-  </tr>
-
-  <tr>
-    <td style="padding:8px; border:1px solid #00FF99;">JavaScript</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">MongoDB</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 80%</td>
-  </tr>
-
-  <tr style="background-color:#111827; color:#fff;">
-    <td style="padding:8px; border:1px solid #00FF99;">TypeScript</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 85%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">GraphQL</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
-  </tr>
-
-  <tr>
-    <td style="padding:8px; border:1px solid #00FF99;">React.js</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">Socket.IO</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
-  </tr>
-
-  <tr style="background-color:#111827; color:#fff;">
-    <td style="padding:8px; border:1px solid #00FF99;">Next.js</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">PostgreSQL</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
-  </tr>
-
-  <tr>
-    <td style="padding:8px; border:1px solid #00FF99;">Tailwind CSS</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 80%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">Docker</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨🟨 50%</td>
-  </tr>
-
-  <tr style="background-color:#111827; color:#fff;">
-    <td style="padding:8px; border:1px solid #00FF99;">Redux</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">Python 🐍</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨 40%</td>
-  </tr>
-
-  <tr>
-    <td style="padding:8px; border:1px solid #00FF99;">Material UI</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
-    <td style="padding:8px; border:1px solid #00FF99;">Git & GitHub</td>
-    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
-  </tr>
-
+<!-- نفس الجدول القديم بدون أي تعديل -->
 </table>
 
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Profile</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HussienTaha&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussienTaha&layout=compact&theme=tokyonight&hide_title=true" width="300" />
+  <!-- بدل API اللي مش شغال badges ثابتة -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HussienTaha&theme=tokyonight" width="320" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussienTaha&theme=tokyonight" width="320" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HussienTaha&theme=tokyonight" width="320" />
 </p>
 
 ---

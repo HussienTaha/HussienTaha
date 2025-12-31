@@ -133,7 +133,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HussienTaha&theme=tokyonight" width="250" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussienTaha&layout=compact&theme=tokyonight&langs_count=10" width="750" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussienTaha&theme=tokyonight" width="250" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HussienTaha&theme=tokyonight" width="250" height="180" />
 </p>
 

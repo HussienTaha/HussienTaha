@@ -51,38 +51,95 @@
 
 <p align="center">
 
-| Frontend | Level | Backend | Level |
-|---------|-------|---------|-------|
-| HTML | ██████████ | NestJS | ████████░░ |
-| CSS | █████████░ | Node.js | █████████░ |
-| JavaScript | ██████████ | MongoDB | ████████░░ |
-| TypeScript | ████████░░ | GraphQL | ███████░░░ |
-| React | █████████░ | Socket.IO | ███████░░░ |
-| Next.js | █████████░ | PostgreSQL | ███████░░░ |
-| Tailwind | ████████░░ | Docker | █████░░░░░ |
-| Redux | ███████░░░ | Python | ████░░░░░░ |
+<table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
+  <tr style="background-color:#1f2937; color:#00FF99;">
+    <th style="padding:10px; border:1px solid #00FF99;">🧠 Frontend</th>
+    <th style="padding:10px; border:1px solid #00FF99;">🚀 Level</th>
+    <th style="padding:10px; border:1px solid #00FF99;">⚙️ Backend & Tools</th>
+    <th style="padding:10px; border:1px solid #00FF99;">💥 Level</th>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">HTML5</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Nest.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 85%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">CSS3</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Node.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">JavaScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">MongoDB</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 80%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">TypeScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 85%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">GraphQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">React.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Socket.IO</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Next.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">PostgreSQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Tailwind CSS</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 80%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Docker</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨🟨 50%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Redux</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Python 🐍</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨 40%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Material UI</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Git & GitHub</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+  </tr>
+
+</table>
 
 </p>
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HussienTaha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HussienTaha&theme=tokyonight&utcOffset=2" width="32%" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HussienTaha&theme=tokyonight" width="70%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussienTaha&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HussienTaha&theme=tokyonight" width="45%" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HussienTaha&theme=tokyonight" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HussienTaha&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HussienTaha&theme=tokyonight&utcOffset=2" width="45%" />
 </p>
 
 ---
@@ -96,8 +153,9 @@
 ---
 
 ## ☕ Fun Fact
+
 <p align="center">
-🎧 Lo-fi beats<br/>
+🎧 Lo-fi beats + Coding<br/>
 ☕ Coffee + Code<br/>
 🌌 Dream in code
 </p>

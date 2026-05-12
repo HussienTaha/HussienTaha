@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/hussien-taha-99ba24386">
     <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=flat&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://www.facebook.com/hussien.taha.788604">
+  <!-- <a href="https://www.facebook.com/hussien.taha.788604">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/hussien_taha54">
@@ -16,7 +16,7 @@
   </a>
   <a href="mailto:hussien212258@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0066?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <img src="https://github.com/HussienTaha/HussienTaha/blob/main/assets/line-divider.gif" width="75%" />
